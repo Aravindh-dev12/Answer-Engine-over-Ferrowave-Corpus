@@ -6,6 +6,12 @@ A customer-facing, retrieval-augmented answer service that answers questions usi
 
 ## 1. Quick Start
 
+### Prerequisites
+```bash
+cp .env.example .env
+# Edit .env with your Gemini/OpenAI API key (optional — falls back to offline heuristic engine)
+```
+
 ### One-command run:
 **Windows**:
 ```cmd
