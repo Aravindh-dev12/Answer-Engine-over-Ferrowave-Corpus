@@ -5,5 +5,4 @@ __pycache__/
 .env
 .cache/
 .index_cache/
-eval/results.md
 eval/raw_eval_output.json
